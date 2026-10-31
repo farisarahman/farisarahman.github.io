@@ -1,43 +1,6 @@
 layout: default
 title: [Farisa Rahman] | Portfolio
 ---
-<script>
-  (async function() {
-    // Check if the user has already logged in during this session
-    if (sessionStorage.getItem("portfolio_auth") === "true") return;
-
-    // Helper function to scramble the user's input using SHA-256
-    async function hashPassword(string) {
-      const utf8 = new TextEncoder().encode(string);
-      const hashBuffer = await crypto.subtle.digest('SHA-256', utf8);
-      const hashArray = Array.from(new Uint8Array(hashBuffer));
-      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-    }
-
-    // paste your scrambled letters/numbers hash below inside the quotes
-    const targetHash = "ddc4fa5880f0be244249a263ba79ef368df32f144daee9c98bc0b62145396556"; 
-
-    // Prompt the user for the password
-    let authenticated = false;
-    let input = prompt("This portfolio is password protected. Please enter the password to view:");
-
-    if (input !== null) {
-      const inputHash = await hashPassword(input);
-      if (inputHash === targetHash) {
-        authenticated = true;
-        sessionStorage.setItem("portfolio_auth", "true");
-      }
-    }
-
-    if (!authenticated) {
-      alert("Incorrect password. Access denied.");
-      document.write('<h2 style="font-family:sans-serif; text-align:center; margin-top:50px;">Access Denied: Invalid Password</h2>');
-      window.stop();
-    }
-  })();
-</script>
-
-
 --
 
   # Hello, I'm [Farisa]
