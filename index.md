@@ -20,7 +20,7 @@ title: [Farisa Rahman] | Portfolio
   
 ## Key Case Studies
   
-### 1. [Summer Streets Tabling 2025 - CLIP (Climate Tech Startup]
+### 1. Summer Streets Tabling 2025 - CLIP (Climate Tech Startup
 * **Role:** Lead Planner
 * **Timeline:** 1 Month | **Budget:** $30
   
@@ -42,7 +42,7 @@ title: [Farisa Rahman] | Portfolio
 * **Role:** Database Design and Implementation Course Student
 * **Timeline:** 3 Months 
   
-#### **The Challenge** [Build a database and include data, functioning website,and a workspace for management. Incorporate all the rules provided in assignment including group discounts, billing, and convertible rooms, for example.]
+#### **The Challenge** Build a database and include data, functioning website,and a workspace for management. Incorporate all the rules provided in assignment including group discounts, billing, and convertible rooms, for example.
   
 #### **My Approach & Strategy**
 * **Workflow Design:** Worked on the database design and pointed out any flaws that might appear down the line. Submitted deliverables such as proposals and design comments. Organized our timeline to complete ERD, website design, querying, and testing.
