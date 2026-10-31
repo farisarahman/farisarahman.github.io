@@ -51,6 +51,8 @@ title: [Farisa Rahman] | Portfolio
 #### **The Result**
 * **Impact:** Full marks in presentation: https://docs.google.com/presentation/d/1LbqXO3jcnudBQg7qmRj23UCGcl2yxTA115zTAs__nCM/edit?usp=drive_link 
 
+  ---
+
 ### 3. [Marketing Proposal for Canon]
 * **Role:** Database Design and Implementation Course Student
 * **Timeline:** 3 Months 
@@ -67,13 +69,13 @@ title: [Farisa Rahman] | Portfolio
   ---
 
 ## Education
-* **Bachelor of Arts in Economics, Minor in Data Science** – [New York University ]
+* **Bachelor of Arts in Economics, Minor in Data Science** – [New York University]
 
   ---
 
 ## 📨 Let's Connect
 
-* **LinkedIn:** [://linkedin/com](https://linkedin.com/farisa-rahman)
+* **LinkedIn:** [://linkedin/com(https://linkedin.com/farisa-rahman)]
 
 
 ## Cool Things I Did
