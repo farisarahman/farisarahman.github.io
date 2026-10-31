@@ -3,7 +3,7 @@ title: [Farisa Rahman] | Portfolio
 ---
 --
 
-  # Hello, I'm [Farisa]
+  # Hi, I'm Farisa
   ### Recent Graduate
   
   Welcome to my portfolio! I have worked/interned/volunteered in multiple industries and have developed a multitude of transferable skills. Continue to explore my page!
