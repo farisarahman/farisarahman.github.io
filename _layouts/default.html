@@ -1,3 +1,37 @@
+<script>
+  (async function() {
+    if (sessionStorage.getItem("portfolio_auth") === "true") return;
+
+    async function hashPassword(string) {
+      const utf8 = new TextEncoder().encode(string);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', utf8);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    // Your secure scrambled password footprint
+    const targetHash = "ddc4fa5880f0be244249a263ba79ef368df32f144daee9c98bc0b62145396556"; 
+
+    let authenticated = false;
+    let input = prompt("This portfolio is password protected. Please enter the password to view:");
+
+    if (input !== null) {
+      const inputHash = await hashPassword(input);
+      if (inputHash === targetHash) {
+        authenticated = true;
+        sessionStorage.setItem("portfolio_auth", "true");
+      }
+    }
+
+    if (!authenticated) {
+      alert("Incorrect password. Access denied.");
+      document.write('<h2 style="font-family:sans-serif; text-align:center; margin-top:50px;">Access Denied: Invalid Password</h2>');
+      window.stop();
+    }
+  })();
+</script>
+
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
