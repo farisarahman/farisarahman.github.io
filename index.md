@@ -3,14 +3,6 @@ layout: default
 title: Farisa Rahman
 ---
 
-<div>
-<script>
-    if (localStorage.getItem("portfolio_access_granted") !== "true") {
-        window.location.href = "index.html";
-    }
-</script>
-</div>
-
   # Hi, I'm Farisa
   ### Recent Graduate
   
