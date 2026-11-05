@@ -14,7 +14,7 @@ Welcome to my portfolio! I have worked/interned/volunteered in multiple industri
   
  * **Technical:** R, Python, HTML, SQL, VBA Macros(In Progress) 
    
- * **Tools:** Asana, Notion, Canva, Google Sheets, Excel 
+ * **Tools:** Asana, Notion, Canva, Google Sheets, Excel
 
  * **Certificates:** Medical Assisting
    
@@ -25,14 +25,14 @@ Welcome to my portfolio! I have worked/interned/volunteered in multiple industri
 ## Key Case Studies
 
 
-### 1. Summer Streets Tabling 2025 - CLIP (Climate Tech Startup
+### 1. [Summer Streets Tabling 2025 - CLIP (Climate Tech Startup]
 
 * **Role:** Lead Planner
 * **Timeline:** 1 Month
 *  **Budget:** $30
 
 *  
-#### **The Challenge** [Need to create engaging activities that will also introduce customers to our products and collect contact information for promotional mail. Limited budget to buy additional materials. No wifi to use our company Ipad.]
+#### **The Challenge:** Need to create engaging activities that will also introduce customers to our products and collect contact information for promotional mail. Limited budget to buy additional materials. No wifi to use company device.
 
 
 #### **My Approach & Strategy**
