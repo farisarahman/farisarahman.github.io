@@ -3,7 +3,7 @@ layout: default
 title: Farisa Rahman
 ---
 
- ## Hi, I'm Farisa. I recently graduated from NYU with a B.A. in Economics and minor in Data Science. 
+## Hi, I'm Farisa. I recently graduated from NYU with a B.A. in Economics and minor in Data Science. 
   
   Welcome to my portfolio! I have worked/interned/volunteered in multiple industries and have developed a multitude of transferable skills. Continue to explore my page!
   
@@ -30,7 +30,7 @@ title: Farisa Rahman
 * **Timeline:** 1 Month
 *  **Budget:** $30
 
-
+*  
 #### **The Challenge** [Need to create engaging activities that will also introduce customers to our products and collect contact information for promotional mail. Limited budget to buy additional materials. No wifi to use our company Ipad.]
 
 
@@ -98,7 +98,7 @@ title: Farisa Rahman
 ## 📨 Let's Connect
 
 * **LinkedIn:** www.linkedin.com/farisa-rahman
-*
+
 
 ## Cool Things I Did
 * I built an escape room with other students from scratch. I designed the entry and exit map of the escape room and built two activities including a touch sensitive candelabra with hidden storage underneath. I was then appointed to implement and handoff the next escape room theme.
