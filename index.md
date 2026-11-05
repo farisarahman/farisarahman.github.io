@@ -23,6 +23,7 @@ title: Farisa Rahman
   
 ## Key Case Studies
 
+
 ### 1. Summer Streets Tabling 2025 - CLIP (Climate Tech Startup
 
 * **Role:** Lead Planner
