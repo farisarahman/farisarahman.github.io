@@ -5,7 +5,8 @@ title: Farisa Rahman
 
 ## Hi, I'm Farisa. I recently graduated from NYU with a B.A. in Economics and minor in Data Science. 
   
-  Welcome to my portfolio! I have worked/interned/volunteered in multiple industries and have developed a multitude of transferable skills. Continue to explore my page!
+
+Welcome to my portfolio! I have worked/interned/volunteered in multiple industries and have developed a multitude of transferable skills. Continue to explore my page!
   
   ---
   
