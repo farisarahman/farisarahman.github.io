@@ -6,7 +6,7 @@ title: Farisa Rahman
 ## Hi, I'm Farisa. I recently graduated from NYU with a B.A. in Economics and minor in Data Science. 
   
 
-Welcome to my portfolio! I have worked/interned/volunteered in multiple industries and have developed a multitude of transferable skills. Continue to explore my page!
+Welcome to my portfolio! I have interned/volunteered in multiple industries and have developed a multitude of transferable skills. Continue to explore my page!
   
   ---
   
@@ -25,7 +25,7 @@ Welcome to my portfolio! I have worked/interned/volunteered in multiple industri
 ## Key Case Studies
 
 
-### 1. [Summer Streets Tabling 2025 - CLIP (Climate Tech Startup]
+### 1. [Summer Streets Tabling 2025 - CLIP (Climate Tech Startup)]
 
 * **Role:** Lead Planner
 * **Timeline:** 1 Month
@@ -48,7 +48,8 @@ Welcome to my portfolio! I have worked/interned/volunteered in multiple industri
 
 #### **The Result**
 * **Impact:** All activities and market research notes can be used for the following year. 
-* **Metric:** Newsletter sent to 77+ new potential customers.
+* **Social Media** Filmed content for social media ads and posts.
+* **Tools** Slack, Canva, Google Docs, Google Forms                                                         
   
   ---
   
